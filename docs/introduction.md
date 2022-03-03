@@ -12,7 +12,7 @@ Let's learn how to setup cdi-website-site development up to deployment.
 **Follow the official AWS User Guide and Developer Guide for installation of the following:**
 
 - AWS CLI
-  - [User Guide]((https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html))
+  - [User Guide](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
   - [Repository](https://github.com/aws/aws-cli)
 - AWS Serverless Application Model CLI (AWS SAM CLI)
   - [Developer Guide](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
