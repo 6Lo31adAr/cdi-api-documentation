@@ -36,10 +36,10 @@ const config = {
   themeConfig:
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Developers',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Code Disruptors Inc. Logo',
+          src: 'img/logo.png',
         },
       },
       footer: {
